@@ -1,0 +1,2 @@
+# schoolManagement
+school managemen system
